@@ -4,5 +4,5 @@ Connecting the student of UH Manoa to The Hive.
 
 # Our Projects
 
-## Waggle
+## [Waggle](https://thehivemanoa.github.io/waggle/)
 insert waggle logo here
