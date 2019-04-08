@@ -1,1 +1,1 @@
-# thehivemanoa.github.io
+# The Hive Manoa
