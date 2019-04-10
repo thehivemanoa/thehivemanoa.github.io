@@ -1,3 +1,15 @@
+#Meet the Team
+
+Jhun Domingo  
+  
+Vanessa Gerber  
+  
+Althea Pittman  
+  
+Morgan Stremick  
+  
+Conrad Wolfe 
+
 # Our Projects
 
 ## [Waggle](https://thehivemanoa.github.io/waggle/)
